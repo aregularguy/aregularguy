@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+from++India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aregularguy&label=Profile%20views&color=0e75b6&style=flat" alt="aregularguy" /> </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -20,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Mantine UI](mantine.dev)
+- 🤝 I’m looking for help with [Mantine UI](https://mantine.dev/)
 
 - 👨‍💻 All of my projects are available at [Github]([mantine.dev](https://github.com/aregularguy))
 
@@ -28,7 +27,7 @@
 
 - 📫 How to reach me **bagwanarshad180@gmail.com**
 
-- 📄 Know about my experiences [mantine.dev](mantine.dev)
+- 📄 Know about my experiences [My Resume]([mantine.dev](https://bit.ly/cv-arshad))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,3 +53,4 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=aregularguy&theme=dark" alt="aregularguy" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aregularguy&label=Profile%20views&color=0e75b6&style=flat" alt="aregularguy" /> </p>
